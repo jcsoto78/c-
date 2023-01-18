@@ -1,0 +1,15 @@
+C:\Users\jkyu\OneDrive\Desktop\backend\c#\solid\lyskov\bin\Debug\net6.0\lyskov.exe
+C:\Users\jkyu\OneDrive\Desktop\backend\c#\solid\lyskov\bin\Debug\net6.0\lyskov.deps.json
+C:\Users\jkyu\OneDrive\Desktop\backend\c#\solid\lyskov\bin\Debug\net6.0\lyskov.runtimeconfig.json
+C:\Users\jkyu\OneDrive\Desktop\backend\c#\solid\lyskov\bin\Debug\net6.0\lyskov.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\c#\solid\lyskov\bin\Debug\net6.0\ref\lyskov.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\c#\solid\lyskov\bin\Debug\net6.0\lyskov.pdb
+C:\Users\jkyu\OneDrive\Desktop\backend\c#\solid\lyskov\obj\Debug\net6.0\lyskov.csproj.AssemblyReference.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\c#\solid\lyskov\obj\Debug\net6.0\lyskov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkyu\OneDrive\Desktop\backend\c#\solid\lyskov\obj\Debug\net6.0\lyskov.AssemblyInfoInputs.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\c#\solid\lyskov\obj\Debug\net6.0\lyskov.AssemblyInfo.cs
+C:\Users\jkyu\OneDrive\Desktop\backend\c#\solid\lyskov\obj\Debug\net6.0\lyskov.csproj.CoreCompileInputs.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\c#\solid\lyskov\obj\Debug\net6.0\lyskov.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\c#\solid\lyskov\obj\Debug\net6.0\ref\lyskov.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\c#\solid\lyskov\obj\Debug\net6.0\lyskov.pdb
+C:\Users\jkyu\OneDrive\Desktop\backend\c#\solid\lyskov\obj\Debug\net6.0\lyskov.genruntimeconfig.cache

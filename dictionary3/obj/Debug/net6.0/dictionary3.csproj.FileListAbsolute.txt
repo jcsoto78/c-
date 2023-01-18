@@ -1,0 +1,15 @@
+C:\Users\jkyu\OneDrive\Desktop\backend\csharpexercises\dictionary3\bin\Debug\net6.0\dictionary3.exe
+C:\Users\jkyu\OneDrive\Desktop\backend\csharpexercises\dictionary3\bin\Debug\net6.0\dictionary3.deps.json
+C:\Users\jkyu\OneDrive\Desktop\backend\csharpexercises\dictionary3\bin\Debug\net6.0\dictionary3.runtimeconfig.json
+C:\Users\jkyu\OneDrive\Desktop\backend\csharpexercises\dictionary3\bin\Debug\net6.0\dictionary3.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\csharpexercises\dictionary3\bin\Debug\net6.0\ref\dictionary3.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\csharpexercises\dictionary3\bin\Debug\net6.0\dictionary3.pdb
+C:\Users\jkyu\OneDrive\Desktop\backend\csharpexercises\dictionary3\obj\Debug\net6.0\dictionary3.csproj.AssemblyReference.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\csharpexercises\dictionary3\obj\Debug\net6.0\dictionary3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkyu\OneDrive\Desktop\backend\csharpexercises\dictionary3\obj\Debug\net6.0\dictionary3.AssemblyInfoInputs.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\csharpexercises\dictionary3\obj\Debug\net6.0\dictionary3.AssemblyInfo.cs
+C:\Users\jkyu\OneDrive\Desktop\backend\csharpexercises\dictionary3\obj\Debug\net6.0\dictionary3.csproj.CoreCompileInputs.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\csharpexercises\dictionary3\obj\Debug\net6.0\dictionary3.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\csharpexercises\dictionary3\obj\Debug\net6.0\ref\dictionary3.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\csharpexercises\dictionary3\obj\Debug\net6.0\dictionary3.pdb
+C:\Users\jkyu\OneDrive\Desktop\backend\csharpexercises\dictionary3\obj\Debug\net6.0\dictionary3.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\jkyu\onedrive\desktop\backend\c#\patterns\strategy\bin\Debug\net6.0\strategy.exe
+C:\Users\jkyu\onedrive\desktop\backend\c#\patterns\strategy\bin\Debug\net6.0\strategy.deps.json
+C:\Users\jkyu\onedrive\desktop\backend\c#\patterns\strategy\bin\Debug\net6.0\strategy.runtimeconfig.json
+C:\Users\jkyu\onedrive\desktop\backend\c#\patterns\strategy\bin\Debug\net6.0\strategy.dll
+C:\Users\jkyu\onedrive\desktop\backend\c#\patterns\strategy\bin\Debug\net6.0\ref\strategy.dll
+C:\Users\jkyu\onedrive\desktop\backend\c#\patterns\strategy\bin\Debug\net6.0\strategy.pdb
+C:\Users\jkyu\onedrive\desktop\backend\c#\patterns\strategy\obj\Debug\net6.0\strategy.csproj.AssemblyReference.cache
+C:\Users\jkyu\onedrive\desktop\backend\c#\patterns\strategy\obj\Debug\net6.0\strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkyu\onedrive\desktop\backend\c#\patterns\strategy\obj\Debug\net6.0\strategy.AssemblyInfoInputs.cache
+C:\Users\jkyu\onedrive\desktop\backend\c#\patterns\strategy\obj\Debug\net6.0\strategy.AssemblyInfo.cs
+C:\Users\jkyu\onedrive\desktop\backend\c#\patterns\strategy\obj\Debug\net6.0\strategy.csproj.CoreCompileInputs.cache
+C:\Users\jkyu\onedrive\desktop\backend\c#\patterns\strategy\obj\Debug\net6.0\strategy.dll
+C:\Users\jkyu\onedrive\desktop\backend\c#\patterns\strategy\obj\Debug\net6.0\ref\strategy.dll
+C:\Users\jkyu\onedrive\desktop\backend\c#\patterns\strategy\obj\Debug\net6.0\strategy.pdb
+C:\Users\jkyu\onedrive\desktop\backend\c#\patterns\strategy\obj\Debug\net6.0\strategy.genruntimeconfig.cache

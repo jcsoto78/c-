@@ -1,0 +1,15 @@
+C:\Users\jkyu\OneDrive\Desktop\backend\c#\generics1\bin\Debug\net6.0\generics1.exe
+C:\Users\jkyu\OneDrive\Desktop\backend\c#\generics1\bin\Debug\net6.0\generics1.deps.json
+C:\Users\jkyu\OneDrive\Desktop\backend\c#\generics1\bin\Debug\net6.0\generics1.runtimeconfig.json
+C:\Users\jkyu\OneDrive\Desktop\backend\c#\generics1\bin\Debug\net6.0\generics1.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\c#\generics1\bin\Debug\net6.0\ref\generics1.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\c#\generics1\bin\Debug\net6.0\generics1.pdb
+C:\Users\jkyu\OneDrive\Desktop\backend\c#\generics1\obj\Debug\net6.0\generics1.csproj.AssemblyReference.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\c#\generics1\obj\Debug\net6.0\generics1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkyu\OneDrive\Desktop\backend\c#\generics1\obj\Debug\net6.0\generics1.AssemblyInfoInputs.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\c#\generics1\obj\Debug\net6.0\generics1.AssemblyInfo.cs
+C:\Users\jkyu\OneDrive\Desktop\backend\c#\generics1\obj\Debug\net6.0\generics1.csproj.CoreCompileInputs.cache
+C:\Users\jkyu\OneDrive\Desktop\backend\c#\generics1\obj\Debug\net6.0\generics1.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\c#\generics1\obj\Debug\net6.0\ref\generics1.dll
+C:\Users\jkyu\OneDrive\Desktop\backend\c#\generics1\obj\Debug\net6.0\generics1.pdb
+C:\Users\jkyu\OneDrive\Desktop\backend\c#\generics1\obj\Debug\net6.0\generics1.genruntimeconfig.cache

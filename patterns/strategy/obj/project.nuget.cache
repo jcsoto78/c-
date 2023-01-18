@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dN9AuljA7VsF+Cvv+G0UghBEhtxGjTnrugjGwuoGlVArlRu9TamQ9FrB4IzwZ9dzL9bpdVOfUYAIn+vzwnS8KQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jkyu\\OneDrive\\Desktop\\backend\\c#\\patterns\\strategy\\strategy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jkyu\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\jkyu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\jkyu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
